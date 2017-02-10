@@ -1,0 +1,18 @@
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.DAL\bin\Debug\AcademicPerformance.DAL.dll
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.DAL\bin\Debug\AcademicPerformance.DAL.pdb
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.DAL\bin\Debug\AcademicPerformance.Objects.dll
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.DAL\bin\Debug\CodeGenerator.dll
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.DAL\bin\Debug\AcademicPerformance.Objects.pdb
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.DAL\bin\Debug\CodeGenerator.pdb
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.DAL\obj\Debug\AcademicPerformance.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.DAL\obj\Debug\AcademicPerformance.DAL.dll
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.DAL\obj\Debug\AcademicPerformance.DAL.pdb
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.DAL\bin\Debug\AcademicPerformance.DAL.dll
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.DAL\bin\Debug\AcademicPerformance.DAL.pdb
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.DAL\bin\Debug\AcademicPerformance.Objects.dll
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.DAL\bin\Debug\CodeGenerator.dll
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.DAL\bin\Debug\AcademicPerformance.Objects.pdb
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.DAL\bin\Debug\CodeGenerator.pdb
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.DAL\obj\Debug\AcademicPerformance.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.DAL\obj\Debug\AcademicPerformance.DAL.dll
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.DAL\obj\Debug\AcademicPerformance.DAL.pdb

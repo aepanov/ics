@@ -1,0 +1,14 @@
+C:\Users\Андрей\Desktop\Example\Task 1\CodeGenerator\bin\Debug\CodeGenerator.dll
+C:\Users\Андрей\Desktop\Example\Task 1\CodeGenerator\bin\Debug\CodeGenerator.pdb
+C:\Users\Андрей\Desktop\Example\Task 1\CodeGenerator\bin\Debug\AcademicPerformance.Objects.dll
+C:\Users\Андрей\Desktop\Example\Task 1\CodeGenerator\bin\Debug\AcademicPerformance.Objects.pdb
+C:\Users\Андрей\Desktop\Example\Task 1\CodeGenerator\obj\Debug\CodeGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Example\Task 1\CodeGenerator\obj\Debug\CodeGenerator.dll
+C:\Users\Андрей\Desktop\Example\Task 1\CodeGenerator\obj\Debug\CodeGenerator.pdb
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\CodeGenerator\bin\Debug\CodeGenerator.dll
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\CodeGenerator\bin\Debug\CodeGenerator.pdb
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\CodeGenerator\bin\Debug\AcademicPerformance.Objects.dll
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\CodeGenerator\bin\Debug\AcademicPerformance.Objects.pdb
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\CodeGenerator\obj\Debug\CodeGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\CodeGenerator\obj\Debug\CodeGenerator.dll
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\CodeGenerator\obj\Debug\CodeGenerator.pdb

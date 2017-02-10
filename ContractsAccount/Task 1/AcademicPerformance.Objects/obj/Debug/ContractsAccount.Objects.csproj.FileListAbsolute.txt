@@ -1,0 +1,4 @@
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Objects\bin\Debug\AcademicPerformance.Objects.dll
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Objects\bin\Debug\AcademicPerformance.Objects.pdb
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Objects\obj\Debug\AcademicPerformance.Objects.dll
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Objects\obj\Debug\AcademicPerformance.Objects.pdb

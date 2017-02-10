@@ -1,0 +1,46 @@
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Tests\bin\Debug\AcademicPerformance.Tests.dll
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Tests\bin\Debug\AcademicPerformance.Tests.pdb
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Tests\bin\Debug\AcademicPerformance.Objects.dll
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Tests\bin\Debug\CodeGenerator.dll
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.assert.dll
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.core.dll
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Tests\bin\Debug\AcademicPerformance.Objects.pdb
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Tests\bin\Debug\CodeGenerator.pdb
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.assert.pdb
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.assert.xml
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.core.pdb
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.core.xml
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.execution.desktop.pdb
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Tests\obj\Debug\AcademicPerformance.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Tests\obj\Debug\AcademicPerformance.Tests.dll
+C:\Users\Андрей\Desktop\Example\Task 1\AcademicPerformance.Tests\obj\Debug\AcademicPerformance.Tests.pdb
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.Tests\bin\Debug\AcademicPerformance.Tests.dll
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.Tests\bin\Debug\AcademicPerformance.Tests.pdb
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.Tests\bin\Debug\AcademicPerformance.Objects.dll
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.Tests\bin\Debug\CodeGenerator.dll
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.assert.dll
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.core.dll
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.Tests\bin\Debug\AcademicPerformance.Objects.pdb
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.Tests\bin\Debug\CodeGenerator.pdb
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.assert.pdb
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.assert.xml
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.core.pdb
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.core.xml
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.execution.desktop.pdb
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.Tests\obj\Debug\AcademicPerformance.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.Tests\obj\Debug\AcademicPerformance.Tests.dll
+C:\Users\Андрей\Desktop\Example — академик перфоманс переименовать не могу\Task 1\AcademicPerformance.Tests\obj\Debug\AcademicPerformance.Tests.pdb
